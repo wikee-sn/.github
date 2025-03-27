@@ -1,3 +1,5 @@
+![xiru](https://github.com/user-attachments/assets/e6df4f80-277d-4673-86d9-3b7b604bfa4b)
+
 # wikee.sn
 
 Le Sénégal est encore peu visible sur Internet, et ses informations sont souvent noyées sous une masse de données. Wikee.sn entend changer cela en devenant la première plateforme entièrement dédiée au référencement et à la centralisation des informations sur le pays. Accessible, structurée et fiable, elle offrira aux Sénégalais et au monde entier un accès direct à des contenus riches sur l’histoire, la culture, l’économie et bien plus encore.
